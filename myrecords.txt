@@ -1,1 +1,3 @@
-I'm reading Programming Practice and Principles Using C++
+I'm reading Programming Practice and Principles Using C++.
+
+remember to learn how github display the committed records.
